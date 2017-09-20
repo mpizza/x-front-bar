@@ -1,0 +1,15 @@
+#xbar {
+  width: 80%;
+  height: 30px;
+  background-color: #000000;
+  position: fixed;
+  top: 0px;
+  left: 10%;
+  border-radius: 0 0 30px 30px;
+  z-index: 9999999999999;
+  cursor: pointer;
+}
+
+.remove {
+  display: none;
+}
